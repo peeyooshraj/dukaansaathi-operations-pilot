@@ -1,0 +1,9 @@
+{
+  "name": "dukaansaathi-operations-pilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first daily operations pilot for independent kirana shops.",
+  "scripts": {
+    "test": "node tests/app.test.mjs"
+  }
+}
